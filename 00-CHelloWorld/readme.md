@@ -4,5 +4,5 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
-Version del compilador: gcc 6.3.0
+Version del compilador: gcc 6.3.0  
 Soporta hasta la version de C: C11
